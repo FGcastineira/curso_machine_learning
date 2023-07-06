@@ -22,11 +22,44 @@ Loops
 
 Día 2
 Bucles (parte 2 y final)
+
 Libreria Panda
+· Introducción a la librería panda con sus distintos comandos.
+
 Space X (inicio)
+· Practica de predicción de resultado de un aterrizaje de un Falcon 9
+
 
 ###### ENG
 Day 2
 Loops (part2)
-Panda Library
-Space X (start)
+
+Pandas Library
+· Introduction to the Pandas library and its various commands.
+
+SpaceX (Beginning)
+· Practice of predicting the outcome of a Falcon 9 landing.
+
+
+
+Día 3 
+Introducción a Machine Learning con Scikit-Learn
+· Introducción al aprendizaje supervisado
+· División en conjuntos del trayning test
+
+Predicción del valor de Bitcoin
+· Entrenamiento, optimización y uso para prediccion de valores futuros usando PROPHET
+
+Introducción Folium y primeras prácticas
+· Creación de mapas interactivos con Folium con librería LEAFLET
+
+##### ENG
+Introduction to Machine Learning with Scikit-Learn
+· Introduction to supervised learning
+· Splitting into training and testing sets
+
+Prediction of Bitcoin value
+· Training, optimization, and use for predicting future values using PROPHET
+
+Introduction to Folium and initial practices
+· Creating interactive maps with Folium using the LEAFLET library
