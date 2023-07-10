@@ -41,7 +41,13 @@ SpaceX (parte2)
     [LogisticRegression, SVC, DecisionTreeClassifier ,KNeighborsClassifier]
 
 SpaceX (parte3)
-  · Analisis visual con Folium 
+  · Analisis visual con Folium
+
+
+  Día 5 ---------------------------
+
+SpaceX (parte4)
+  · Trabajo con Folium (Marcadores y distancias)
 
 
 
