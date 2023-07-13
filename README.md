@@ -44,11 +44,21 @@ SpaceX (parte3)
   · Analisis visual con Folium
 
 
-  Día 5 ---------------------------
+Día 5 ---------------------------
 
 SpaceX (parte4)
   · Trabajo con Folium (Marcadores y distancias)
 
+
+Día 6 ---------------------------
+
+  · Funciones
+  · Clases
+
+
+Día 7 ---------------------------
+
+  · Programación funcional
 
 
 ###### ENG
