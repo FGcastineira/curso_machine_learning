@@ -63,12 +63,12 @@ Día 7 ---------------------------
 
 Día 8 ---------------------------
 
-  · RDDs y Programación funcional
+  · SparkSession Teoría
 
 
 Día 9 ---------------------------
 
-  · RDDs y Programación funcional
+  · Transformaciones y Acciones sobre RDDs y Programación funcional
 
 ###### ENG
 
