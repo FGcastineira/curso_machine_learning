@@ -61,6 +61,15 @@ Día 7 ---------------------------
   · Programación funcional
 
 
+Día 8 ---------------------------
+
+  · RDDs y Programación funcional
+
+
+Día 9 ---------------------------
+
+  · RDDs y Programación funcional
+
 ###### ENG
 
 Day 1 ---------------------------
